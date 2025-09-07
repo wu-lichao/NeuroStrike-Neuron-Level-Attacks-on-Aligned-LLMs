@@ -84,7 +84,7 @@ We evaluate NeuroStrike on over **30 open-weight models** and **5 black-box APIs
    python 2_prune_and_get_asr_vlm.py
    ```
 
-   * ASR results at various pruning levels (see Table I and Table II in the paper).
+   * ASR results at various pruning levels (see Table I and Table II in the paper). The image dataset can be downloaded from https://zenodo.org/records/17072075
 
 ---
 
