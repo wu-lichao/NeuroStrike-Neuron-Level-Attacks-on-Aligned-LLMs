@@ -1,4 +1,4 @@
-# NeuroStrike: Neuron-Level Attacks on Aligned LLMs
+# [NDSS 2026] NeuroStrike: Neuron-Level Attacks on Aligned LLMs
 
 > A general and scalable attack framework that targets safety alignment in large language models (LLMs) through neuron-level profiling and manipulations.
 
