@@ -4,6 +4,8 @@
 
 > The artifact from this work received all three badges, **Available**, **Functional**, and **Reproduced**, from the Network and Distributed System Security (NDSS) Symposium 2026.
 
+> Paper link: https://arxiv.org/abs/2509.11864
+
 ---
 
 ## 🚀 Overview
