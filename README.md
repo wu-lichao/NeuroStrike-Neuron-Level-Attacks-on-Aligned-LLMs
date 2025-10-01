@@ -4,8 +4,6 @@
 
 > The artifact from this work received all three badges, **Available**, **Functional**, and **Reproduced**, from the Network and Distributed System Security (NDSS) Symposium 2026.
 
-> No GPU, but what to try? No problem! We prepared **NeuroStrike_on_google_colab.ipynb** for you. Simply run it with Google Colab with the free T4 GPU. Everything is free and ready to run!
-
 > Paper link: https://arxiv.org/abs/2509.11864
 
 ---
@@ -18,6 +16,8 @@ Safety alignment is critical for ensuring LLMs avoid generating harmful or uneth
 
 * **White-box attack**: Directly identifies and prunes safety neurons.
 * **Black-box attack**: Leverages transferability of safety neurons to jailbreak proprietary LLMs.
+
+> No GPU, but what to try? No problem! We prepared **NeuroStrike_on_google_colab.ipynb** for you. Simply run it with Google Colab with the free T4 GPU. Everything is free and ready to run!
 
 We evaluate NeuroStrike on over **30 open-weight models** and **5 black-box APIs**, achieving:
 
