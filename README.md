@@ -17,7 +17,7 @@ Safety alignment is critical for ensuring LLMs avoid generating harmful or uneth
 * **White-box attack**: Directly identifies and prunes safety neurons.
 * **Black-box attack**: Leverages transferability of safety neurons to jailbreak proprietary LLMs.
 
-> No GPU, but what to try? No problem! We prepared **NeuroStrike_on_google_colab.ipynb** for you. Simply run it on Google Colab with a free T4 GPU. Everything is free and ready to run!
+> Want to try now? No problem! We prepared **NeuroStrike_on_google_colab.ipynb** for you. Simply run it on Google Colab with a free T4 GPU. Everything is free and ready to run! Only the internet is needed :-)
 
 We evaluate NeuroStrike on over **30 open-weight models** and **5 black-box APIs**, achieving:
 
@@ -36,6 +36,8 @@ We evaluate NeuroStrike on over **30 open-weight models** and **5 black-box APIs
 ---
 
 ## 🛠️ Setup Instructions
+
+> No setup, but what to try? No problem! We prepared **NeuroStrike_on_google_colab.ipynb** for you. Simply run it on Google Colab with a free T4 GPU. Everything is free and ready to run! Only the internet is needed :-)
 
 ### 1. Environment Setup
 
