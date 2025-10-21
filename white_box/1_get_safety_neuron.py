@@ -122,6 +122,11 @@ if __name__ == "__main__":
         "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",#10
         "deepseek-ai/DeepSeek-R1-Distill-Llama-8B", #11
         "Qwen/QwQ-32B", #12
+        # VLMs
+        "google/gemma-3-12b-it",
+        "google/gemma-3-27b-it",
+        "Qwen/Qwen2.5-VL-7B-Instruct",
+        "Qwen/Qwen2.5-VL-32B-Instruct"
     ]
 
     model_name = models[model_id].split('/')[-1]
